@@ -8,7 +8,7 @@ Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분�
 이 과정에서 프로그래밍에 대한 흥미를 느껴 SSAFY까지 오게 되었습니다.
 
 <h3><strong><font color="#66cc99">저는 이런 사람입니다</font color></strong></h3>
-저의 MBTI는 <strong><font size=4>INTP</font size></strong>입니다. 가장 많이 하는 말은 "왜"와 "그렇군.."입니다.<br>
+저의 MBTI는 <strong><font size=4>INTP</font size></strong>입니다. 가장 많이 하는 말은 <strong><font size=4>"왜"</font size></strong>와<strong><font size=4> "그렇군.."</font size></strong>입니다.<br>
 새로운 분야에 <strong><font size=4>도전</font size></strong>하는 것을 좋아하고, 한번 빠지면 <strong><font size=4>끝까지</font size></strong> 파고드는 성격입니다.<br>
 스스로도 잘 하지만... SSAFY처럼 <strong><font size=4>누군가 굴려주는 것</font size></strong>을 좋아합니다.
 
