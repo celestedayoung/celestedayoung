@@ -25,7 +25,7 @@ Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분�
  
 ---
 
-- ***Tech Statcks***: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=Scipy&logoColor=white"> 
+- ***Tech Statcks***: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat&logo=Scipy&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
 - ***Experiences***: Data Analysis & Visualization
 - ***Interest***: Frontend
 
