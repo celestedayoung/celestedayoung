@@ -6,7 +6,7 @@
   <ul>
     <li>대학교에서 <strong><font size=4>과학교육과의 지구과학 & 물리</font size></strong>를,</li>
     <li>대학원에서 <strong><font size=4>천체물리학</font size></strong>을 전공하였습니다.</li>
-    <li>Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분석하고 시각화하는 연구를 진행했는데, 이 과정에서 프로그래밍에 대한 흥미를 느껴 SSAFY까지 오게 되었습니다.</li>
+    <li>Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분석하고 시각화하는 연구를 진행했는데, <br> 이 과정에서 프로그래밍에 대한 흥미를 느껴 SSAFY까지 오게 되었습니다.</li>
   </ul>
 
   <h3><strong><font color="#66cc99">저는 이런 사람입니다</font color></strong></h3>
