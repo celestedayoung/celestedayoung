@@ -16,7 +16,8 @@ Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분�
 다양한 원두의 <strong><font size=4>커피</font size></strong>를 즐기는 것, 
 <strong><font size=4>만년필</font size></strong>을 수집하고 쓰는 것, 
 대중교통에서 <strong><font size=4>독서</font size></strong>하는 것을 좋아합니다.<br>
-게임도 좋아하는데 <s>망겜</s>이라...
+게임도 좋아하는데 <s>망겜</s>이라...!<br>
+그리고 가장 좋아하는 것은 저희집 고양이입니다. <br>
 
 <h3><strong><font color="#66cc99">마지막으로...</font color></strong></h3>
 <strong><font size=4>좋은 사람들</font size></strong>을 많이 만나서 배우고 싶어요!<br>
@@ -49,3 +50,4 @@ Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분�
 
 </div> 
 
+![IMG_8002](https://github.com/celestedayoung/celestedayoung/assets/144453750/1a310482-ef24-4d30-92bb-08147274d729)
