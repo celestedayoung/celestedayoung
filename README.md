@@ -24,7 +24,8 @@ Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분�
 1년동안 제가 <strong><font size=4>"잘한다고 자만하지도, 못한다고 좌절하지도"</font size></strong> 않았으면 좋겠습니다!
 
 <h3><strong><font color="#66cc99">아 맞다,</font color></strong></h3>
-제가 사람 이름, 얼굴을 잘 못외우는데, <strong><font size=4절대 무시하는 것이 아닙니다...</font size></strong>
+사투리를 쓰는데, 사실 저는 <strong><font size=4>서울에 약 8년 살았답니다...</font size></strong>
+제가 사람 이름, 얼굴을 잘 못외우는데, <strong><font size=4>절대 무시하는 것이 아닙니다...</font size></strong>
  
 ---
 
