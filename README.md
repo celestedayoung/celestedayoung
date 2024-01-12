@@ -22,6 +22,9 @@ Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분�
 <strong><font size=4>프론트엔드</font size></strong> 개발자가 되기 위한 역량을 기르고 싶어요! 하지만 백엔드에도 관심이 많아요!<br>
 역삼에서 약 1시간 거리인 <strong><font size=4>연희동</font size></strong>에 살고 있어요. 카페 추천 해드릴 수 있답니다!<br>
 1년동안 제가 <strong><font size=4>"잘한다고 자만하지도, 못한다고 좌절하지도"</font size></strong> 않았으면 좋겠습니다!
+
+<h3><strong><font color="#66cc99">아 맞다,</font color></strong></h3>
+제가 사람 이름, 얼굴을 잘 못외우는데, <strong><font size=4절대 무시하는 것이 아닙니다...</font size></strong>
  
 ---
 
