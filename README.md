@@ -3,7 +3,7 @@
 <div>
 <h1>안녕하세요 표다영입니다!</h1>
 <h3><font color="#66cc99">저는 이런 것들을 공부했습니다</font color></h3>
-대학교에서 <strong><font size=4>과학교육과에서 지구과학 & 물리</font size></strong>를, 대학원에서 <strong><font size=4>천체물리학</font size></strong>을 전공하였습니다.<br>
+대학교에서 <strong><font size=4>과학교육과의 지구과학 & 물리</font size></strong>를, 대학원에서 <strong><font size=4>천체물리학</font size></strong>을 전공하였습니다.<br>
 Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분석하고 시각화하는 연구를 진행했는데, 이 과정에서 프로그래밍에 대한 흥미를 느껴 SSAFY까지 오게 되었습니다.
 
 <h3><strong><font color="#66cc99">저는 이런 사람입니다</font color></strong></h3>
