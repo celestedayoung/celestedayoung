@@ -17,7 +17,7 @@
     <li>스스로도 잘 하지만... SSAFY처럼 <strong><font size=4>누군가 굴려주는 것</font size></strong>을 좋아합니다.</li>
   </ul>
 
-  <h3><strong><font color="#66cc99":last_quarter_moon_with_face:>저는 이런 것들을 좋아합니다</font color></strong></h3>
+  <h3><strong><font color="#66cc99">:last_quarter_moon_with_face:저는 이런 것들을 좋아합니다</font color></strong></h3>
   <ul>
     <li>다양한 원두의 <strong><font size=4>커피</font size></strong>를 즐기는 것,</li>
     <li><strong><font size=4>만년필</font size></strong>을 수집하고 쓰는 것,</li>
