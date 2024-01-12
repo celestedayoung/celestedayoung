@@ -17,16 +17,16 @@ Python을 이용한 통계 프로그램을 만들어 별의 스펙트럼을 분�
 <strong><font size=4>만년필</font size></strong>을 수집하고 쓰는 것, 
 대중교통에서 <strong><font size=4>독서</font size></strong>하는 것을 좋아합니다.<br>
 게임도 좋아하는데 <s>망겜</s>이라...!<br>
-그리고 가장 좋아하는 것은 저희집 <strong><font size=4>고양이</font size></strong입니다. <br>
+그리고 가장 좋아하는 것은 저희집 <strong><font size=4>고양이</font size></strong>입니다. <br>
 
 <h3><strong><font color="#66cc99">마지막으로...</font color></strong></h3>
 <strong><font size=4>좋은 사람들</font size></strong>을 많이 만나서 배우고 싶어요!<br>
 <strong><font size=4>프론트엔드</font size></strong> 개발자가 되기 위한 역량을 기르고 싶어요! 하지만 백엔드에도 관심이 많아요!<br>
 역삼에서 약 1시간 거리인 <strong><font size=4>연희동</font size></strong>에 살고 있어요. 카페 추천 해드릴 수 있답니다!<br>
-1년동안 제가 <strong><font size=4>"잘한다고 자만하지도, 못한다고 좌절하지도"</font size></strong> 않았으면 좋겠습니다!
+1년동안 제가 <strong><font size=4>잘한다고 자만하지도, 못한다고 좌절하지도</font size></strong> 않았으면 좋겠습니다!
 
 <h3><strong><font color="#66cc99">아 맞다,</font color></strong></h3>
-사투리를 쓰는데, 사실 저는 <strong><font size=4>서울에 약 8년 살았답니다...</font size></strong><br>
+사투리를 쓰는데, 사실 저는 <strong><font size=4>서울에 약 8년 살았답니다...</font size></strong> <br>
 제가 사람 이름, 얼굴을 잘 못외우는데, <strong><font size=4>절대 무시하는 것이 아닙니다...</font size></strong>
  
 ---
