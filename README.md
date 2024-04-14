@@ -8,7 +8,7 @@ Feel free to look around!
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,idea,vscode,pycharm&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python&theme=light)](https://skillicons.dev)  
 
 [![My Skills](https://skillicons.dev/icons?i=vue,react,spring,mysql&theme=light)](https://skillicons.dev)  
 
