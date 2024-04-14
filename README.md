@@ -6,7 +6,7 @@ However, I have various interests, so I'm also studying backend technologies.
 Feel free to look around!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,idea,vscode,pycharm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,vscode,idea,pycharm&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python&theme=light)](https://skillicons.dev)  
 
