@@ -1,4 +1,4 @@
-# Dayoung Pyo's Github  
+#  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" />Dayoung Pyo's Github 
 
 Welcome to my GitHub :D  
 I aspire to become a frontend developer and am currently studying about it.  
