@@ -12,5 +12,6 @@ Feel free to look around!
 
 [![My Skills](https://skillicons.dev/icons?i=vue,vite,pinia,spring&theme=light)](https://skillicons.dev)  
 
+[![My Skills](https://skillicons.dev/icons?i=npm&theme=light)](https://skillicons.dev) 
 ## GitHub Status
 ![Dayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestedayoung&show_icons=true&theme=vue)
