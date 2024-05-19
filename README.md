@@ -17,8 +17,8 @@ Feel free to look around!
 ## GitHub Status
 <div style="display: flex; flex-direction: column;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=celestedayoung&theme=vue&bg_color=00000000&color=41b883&line=41b883&point=41b883" alt="Dayoung's activity graph" style="width: 847px; margin-bottom: 10px;"/>
-  <div style="display: flex; width: 100%;">
+<!--   <div style="display: flex; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestedayoung&layout=compact&theme=vue&title_color=41b883" alt="Top Langs" style="height: 200px; margin-right: 5px;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=celestedayoung&show_icons=true&theme=vue" alt="Dayoung's stats" style="height: 200px; flex: 1;"/>
-  </div>
+  </div> -->
 </div>
