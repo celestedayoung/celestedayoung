@@ -3,7 +3,8 @@
 Welcome to my GitHub :D  
 I aspire to become a frontend developer and am currently studying about it.  
 However, I have various interests, so I'm also studying backend technologies.  
-Feel free to look around!
+Feel free to look around!  
+[My Blog](https://celestedayoung.netlify.app/)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,vscode,pycharm&theme=light)](https://skillicons.dev)
