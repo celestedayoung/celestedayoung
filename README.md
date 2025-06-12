@@ -1,8 +1,9 @@
 # <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />Dayoung Pyo's Github
 
 Welcome to my GitHub :D  
-I aspire to become a frontend developer and am currently studying about it.  
-However, I have various interests, so I'm also studying backend technologies.  
+I am currently working as a frontend developer and continuously improving my skills.
+With a wide range of interests, I also study backend technologies alongside.
+
 Feel free to look around!  
 Take a look at my blog: [My Blog](https://celestedayoung.netlify.app/)
 
